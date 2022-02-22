@@ -21,5 +21,13 @@ namespace Palindromes.Tests
       Palindrome testPalindrome = new Palindrome(word);
       Assert.AreEqual(true, testPalindrome.IsPalindrome());
     }
+
+    [TestMethod]
+    public void IsPalindrome_WordReadsTheSameBackwardAndForward_False()
+    {
+      string word = "radio";
+      Palindrome testPalindrome = new Palindrome(word);
+      Assert.AreEqual(false, testPalindrome.IsPalindrome());
+    }
   }
 }
