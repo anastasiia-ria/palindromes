@@ -13,5 +13,14 @@ namespace Palindromes.Tests
       Palindrome testPalindrome = new Palindrome(word);
       Assert.AreEqual("radar", testPalindrome.Word);
     }
+
+    [TestMethod]
+    public void Reverse_ReverseAWord_ReversedWord()
+    {
+      string word = "radar";
+      Palindrome testPalindrome = new Palindrome(word);
+      testPalindrome.ReverseWord();
+      Assert.AreEqual("radar", testPalindrome.ReversedWord);
+    }
   }
 }
