@@ -29,5 +29,13 @@ namespace Palindromes.Tests
       Palindrome testPalindrome = new Palindrome(word);
       Assert.AreEqual(false, testPalindrome.IsPalindrome());
     }
+
+    [TestMethod]
+    public void IsPalindrome_UppercaseWordReadsTheSameBackwardAndForward_True()
+    {
+      string word = "Radar";
+      Palindrome testPalindrome = new Palindrome(word);
+      Assert.AreEqual(true, testPalindrome.IsPalindrome());
+    }
   }
 }
