@@ -15,12 +15,11 @@ namespace Palindromes.Tests
     }
 
     [TestMethod]
-    public void Reverse_ReverseAWord_ReversedWord()
+    public void IsPalindrome_WordReadsTheSameBackwardAndForward_True()
     {
       string word = "radar";
       Palindrome testPalindrome = new Palindrome(word);
-      testPalindrome.ReverseWord();
-      Assert.AreEqual("radar", testPalindrome.ReversedWord);
+      Assert.AreEqual(true, testPalindrome.IsPalindrome());
     }
   }
 }
