@@ -6,7 +6,7 @@ namespace Palindromes.Models
 
     public Palindrome(string word)
     {
-
+      Word = word;
     }
   }
 }
