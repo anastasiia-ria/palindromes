@@ -11,7 +11,8 @@ namespace Palindromes.Models
 
     public bool IsPalindrome()
     {
-      char[] wordArray = Word.ToCharArray();
+      string wordLower = Word.ToLower();
+      char[] wordArray = wordLower.ToCharArray();
       bool isPalindrome = true;
 
       for (int i = 0; i < wordArray.Length / 2; i++)
