@@ -37,5 +37,13 @@ namespace Palindromes.Tests
       Palindrome testPalindrome = new Palindrome(word);
       Assert.AreEqual(true, testPalindrome.IsPalindrome());
     }
+
+    [TestMethod]
+    public void IsPalindrome_NumberReadsTheSameBackwardAndForward_True()
+    {
+      int word = 101;
+      Palindrome testPalindrome = new Palindrome(word.ToString());
+      Assert.AreEqual(true, testPalindrome.IsPalindrome());
+    }
   }
 }
