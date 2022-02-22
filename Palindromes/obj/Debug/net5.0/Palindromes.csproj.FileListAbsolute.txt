@@ -1,0 +1,15 @@
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.csproj.AssemblyReference.cache
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.AssemblyInfoInputs.cache
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.AssemblyInfo.cs
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.csproj.CoreCompileInputs.cache
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.deps.json
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.runtimeconfig.json
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.runtimeconfig.dev.json
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.dll
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/bin/Debug/net5.0/ref/Palindromes.dll
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.pdb
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.dll
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/obj/Debug/net5.0/ref/Palindromes.dll
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.pdb
+/Users/anastasiiariabets/Desktop/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.genruntimeconfig.cache
